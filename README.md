@@ -129,7 +129,9 @@ SudoQuest/
 
 ## 📸 Screenshots
 
-> *Coming soon — launching on the App Store.*
+<div align="center">
+<img src="Screenshots/menu.JPEG" width="300" />
+</div>
 
 ---
 
